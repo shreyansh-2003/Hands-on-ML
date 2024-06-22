@@ -2,7 +2,7 @@
 
 ---
 __Author Name : Shreyansh Padarha__<br>
-__Email : mailto:shreyansh.padarha@hotmail.com__
+__Email : shreyansh.padarha@hotmail.com__
 ---
 
 ># Overview
